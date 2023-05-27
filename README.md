@@ -1,3 +1,3 @@
 # Tarea 2 Metodos no Parametricos
-
-![img](/img/screenshot.png)
+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
+![img](img/screenshot.png)
