@@ -4,7 +4,7 @@
 
 trabajo dos metodos no parametricos, referente a comparacion de muestras con los test de 
 
-Calculos mediante ***R*** y ***python***, revisar *script.R* y *script.py* respectivamente
+Calculos mediante ***R***.
 
 Ademas en la carpeta *LaTeX* esta el script del pdf.
 
